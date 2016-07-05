@@ -1,0 +1,22 @@
+{
+  "name": "filemeta",
+  "version": "1.0.0",
+  "description": "upload file",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tienanh2007/File-Meta.git"
+  },
+  "keywords": [
+    "file"
+  ],
+  "author": "Tien Anh Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tienanh2007/File-Meta/issues"
+  },
+  "homepage": "https://github.com/tienanh2007/File-Meta#readme"
+}
